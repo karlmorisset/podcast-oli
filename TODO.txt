@@ -1,0 +1,3 @@
+- Front to be able to input url for single podcast or rss feed
+- If front, transform back to be able to handle request (Express, Fastify...)
+- Check if working with other rss feed than OLI
